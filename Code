@@ -1,0 +1,12 @@
+#Python Code
+
+a = 20
+b = 5
+
+temp = a #save temporary vvalue a
+a = b
+b = temp #save temporary value b
+
+
+print(a) # Value to b 
+print(b) # Value to a
